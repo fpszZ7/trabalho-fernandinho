@@ -16,12 +16,16 @@ import numpy as np
 from sklearn.cluster import KMeans
 
 filmes_assistidos = np.array([
-  [1, 0, 0, 1], # usuario 1
-    [1, 1, 0, 0], # usuario 2
-    [0, 1, 1, 0], # usuario 3
-    [0, 0, 1, 1], # usuario 4
-    [1, 0, 1, 0], # usuario 5
-    [0, 1, 0, 1], # usuario 6
+  [1, 0, 0, 1],  # usuario 1
+    [1, 1, 0, 0],  # usuario 2
+    [0, 1, 1, 0],  # usuario 3
+    [0, 0, 1, 1],  # usuario 4
+    [1, 0, 1, 0],  # usuario 5
+    [0, 1, 0, 1],  # usuario 6
+    [1, 1, 1, 0],  # usuario 7
+    [0, 0, 0, 1],  # usuario 8
+    [1, 0, 1, 1],  # usuario 9
+    [0, 1, 1, 1]   # usuario 10
 ])
 
 #treinar modelo
