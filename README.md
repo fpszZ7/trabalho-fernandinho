@@ -1,1 +1,2 @@
-# trabalho-fernandinho
+# trabalho-fernandinho 
+# a IA do collab serve para ler os usuarios (codigos de filmes assistidos e não assistidos) e tambem os filmes em si que serve para dar ao usuario uma possibilade de filmes que ele pode gostar e os não recomendados tambem
